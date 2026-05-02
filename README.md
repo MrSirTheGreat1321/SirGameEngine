@@ -1,7 +1,6 @@
 # SirGameEngine
 Game engine for Java 
-
-
+\r
 # GameWindow
 The window for your game
 # GameCenter
